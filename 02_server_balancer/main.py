@@ -1,3 +1,4 @@
+import time
 from servers_data import SERVERS
 from balancer import get_next_server, toggle_server_status
 
